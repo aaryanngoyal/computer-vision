@@ -1,7 +1,7 @@
 import cv2 as cv
 
 # loading and showing of image
-img = cv.imread('haikyuu.jpg')
+img = cv.imread('images/haikyuu.jpg')
 
 # processing of image
 # convert to grayscale
